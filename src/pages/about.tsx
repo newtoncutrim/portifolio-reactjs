@@ -17,16 +17,17 @@ export default function About() {
   return (
     <>
       <Head>
-        <title>About | Evander Inácio </title>
+        <title>About | Newton Cutrim</title>
         <meta
           name="description"
-          content="Meu nome é Evander Inácio, sou um desenvolvedor front-end React
+          content="Meu nome é Newton cutrim, sou um desenvolvedor Back-end Laravel
             do Brasil."
         />
-        <meta property="og:title" content="About | Evander Inácio" />
+        <meta property="og:title" content="About | Newton Cutrim" />
         <meta
           property="og:description"
-          content="Meu nome é Evander Inácio, sou um desenvolvedor front-end React do Brasil."
+          content="Meu nome é Newton cutrim, sou um desenvolvedor Back-end Laravel
+          do Brasil."
         />
       </Head>
 
@@ -47,47 +48,47 @@ export default function About() {
             <S.AboutImage>
               <img
                 className="AboutImg"
-                src="/Evander.webp"
-                alt="Imagem de perfil Evander"
+                src="/perfil.jpeg"
+                alt="Imagem de perfil Newton"
               />
 
               <div className="links">
                 <ul role="list">
-                  <Link href={'https://github.com/EvanderInacio'}>
+                  <Link href={'https://github.com/newtoncutrim'}>
                     <a target="_blank" aria-label="Link para o Github">
-                      <AiFillGithub size={25} /> @EvanderInacio
+                      <AiFillGithub size={25} /> @NewtonCutrim
                     </a>
                   </Link>
-                  <Link href={'https://www.linkedin.com/in/evander-inacio/'}>
+                  <Link href={'https://www.linkedin.com/in/newton-cutrim/'}>
                     <a target="_blank" aria-label="Link para o Linkedin">
-                      <BsLinkedin size={25} /> @evander-inacio
+                      <BsLinkedin size={25} /> @NewtonCutrim
                     </a>
                   </Link>
                   <Link
-                    href={'https://api.whatsapp.com/send?phone=5511995085916'}
+                    href={'https://api.whatsapp.com/send?phone=5598984212805'}
                   >
                     <a target="_blank" aria-label="Link para o WhatsApp">
-                      <RiWhatsappFill size={25} /> +55 (11) 99508-5916
+                      <RiWhatsappFill size={25} /> +55 (98) 998421-2805
                     </a>
                   </Link>
-                  <Link
-                    href={'https://www.discordapp.com/users/evander_inacio'}
+                 {/*  <Link
+                    href={'}
                   >
                     <a
                       className="dc"
                       target="_blank"
                       aria-label="Link para o Discord"
                     >
-                      <FaDiscord size={25} /> @evander_inacio
+                      <FaDiscord size={25} /> @
                     </a>
-                  </Link>
+                  </Link> */}
                   <Link href={'mailto:evander.20112@hotmail.com'}>
                     <a
                       className="email"
                       target="_blank"
                       aria-label="Link para o email"
                     >
-                      <GrMail size={25} /> @evander.20112@hotmail.com
+                      <GrMail size={25} /> @newtoncutrim777@gmail.com
                     </a>
                   </Link>
                 </ul>
@@ -107,22 +108,19 @@ export default function About() {
             </S.AboutImage>
             <S.AboutDescription>
               <p>
-                Meu nome é Evander Inácio, sou um desenvolvedor front-end React
-                do Brasil, apaixonado por projetar e codificar. Minha
-                especialidade é a criação de interfaces e funcionalidades para
-                aplicativos da web usando React.js e Next.js.
+                Meu nome é Newton Cutrim, sou um desenvolvedor Back-end Laravel, apaixonado por projetar e codificar.
               </p>
               <p>
                 Iniciei minha jornada na universidade com o objetivo inicial de
                 cursar Análise e Desenvolvimento de Sistemas. Sempre tive
                 interesse por computadores e uma curiosidade em relação à
-                criação de páginas web. Então, decidi unir essas duas paixões e
+                criação de sistemas web. Então, decidi unir essas duas paixões e
                 ingressei na faculdade para explorar as possibilidades da área
                 de TI.
               </p>
               <p>
-                Foi somente em 2021, no penúltimo semestre da faculdade, que
-                comecei a levar a programação mais a sério. Iniciei minha
+                Foi somente em 2021, no primeiro semestre da faculdade, que
+                comecei a jornada pela programação. Iniciei minha
                 primeira tentativa de aprender HTML e CSS, porém acabei dando
                 uma pausa após alguns meses devido à falta de tempo livre.
               </p>
@@ -136,17 +134,14 @@ export default function About() {
               </p>
               <p>
                 Em termos de minha experiência até o momento, tenho uma base
-                sólida em desenvolvimento front-end. Gosto de trabalhar com
-                React e NextJS para criar interfaces de usuário dinâmicas.
-                Atualmente, trabalho como desenvolvedor front-end freelancer,
-                utilizando ReactJS e Material UI, além de fazer integrações com
-                NodeJS.
+                sólida em desenvolvimento web Back-end.
+                Atualmente, trabalho como desenvolvedor Back-end freelancer,
+                utilizando Php, Laravel, Docker, Reactjs, Git, linux.
               </p>
               <p>
                 Além do trabalho, continuo estudando e desenvolvendo projetos
                 pessoais para expandir meus conhecimentos, focado no ecossistema
-                Javascript para desenvolvimento Front-end utilizando ReactJS,
-                Typescript, Next.js, entre outros.
+                Laravel para desenvolvimento Full-stack.
               </p>
               <p>
                 Estou sempre em busca de desafios e oportunidades para crescer

@@ -23,9 +23,9 @@ export function About() {
           <div className="aboutDescription">
             <h2>Deixe-me apresentar</h2>
             <p>
-              Sou um desenvolvedor front-end apaixonado por projetar e
-              codificar. Minha especialidade é a criação de interfaces e
-              funcionalidades para aplicativos da web usando React.js e Next.js.
+            Sou um programador apaixonado por tecnologia, com um 1 ano de atuação e uma sólida
+            formação acadêmica. Tenho atuado como desenvolvedor web, utilizando tecnologias como
+            PHP/Laravel, Docker, Git, JavaScript/ReactJS.
               <br />
               Você pode conhecer mais sobre o meu perfil e o meu trabalho
               navegando pelo website.

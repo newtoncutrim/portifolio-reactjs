@@ -15,7 +15,7 @@ export function HomeHero() {
             <span>👋🏻</span> Olá, o meu nome é
           </p>
           <h1>
-            Evander Inácio
+            Newton Cutrim de Paula
             <span>
               <img
                 className="animation"
@@ -28,9 +28,9 @@ export function HomeHero() {
             <Typewriter
               options={{
                 strings: [
-                  'Desenvolvedor Front-End',
-                  'Desenvolvedor ReactJS',
-                  'Desenvolvedor NextJS'
+                  'Desenvolvedor Back-End',
+                  'Desenvolvedor Laravel',
+                  'Desenvolvedor ReactJS'
                 ],
                 autoStart: true,
                 loop: true,

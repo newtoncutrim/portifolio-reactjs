@@ -30,7 +30,7 @@ export function Contact() {
             </h4>
             <Link href="https://api.whatsapp.com/send?phone=5511995085916">
               <a target="_blank">
-                <span>+55 11 99508-5916</span>
+                <span>+55 98 985137468</span>
               </a>
             </Link>
           </div>
@@ -40,9 +40,9 @@ export function Contact() {
               {' '}
               <TelegramLogo size={22} color="#00fffb" /> Email{' '}
             </h4>
-            <Link href="mailto:evander.20112@hotmail.com">
+            <Link href="mailto:newtoncutrim777@gmail.com">
               <a target="_blank">
-                <span>evander.20112@hotmail.com</span>
+                <span>newtoncutrim777@gmail.com</span>
               </a>
             </Link>
           </div>

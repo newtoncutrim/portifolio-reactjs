@@ -40,11 +40,11 @@ export default class MyDocument extends Document {
           />
           <meta
             name="keywords"
-            content="Evander Inacio, programador, web, websites, Desenvolvedor Web Frontend, developer, desenvolvimento, programação, frontend, front-end, HTML, CSS, JavaScript, ReactJS, NextJS, website, portfolio, Profissional de TI, Desenvolvimento de Sites"
+            content="Newton cutrim, programador, web, websites, Desenvolvedor Web Back-end, developer, desenvolvimento, programação, frontend, front-end, HTML, CSS, JavaScript, ReactJS, Php, Laravel, portfolio, Profissional de TI, Desenvolvimento de Sites"
           />
           <meta
             name="description"
-            content="Meu nome é Evander Inácio sou um Desenvolvedor Front-end. Confira meus projetos construídos."
+            content="Meu nome é Newton Cutrim sou um Desenvolvedor Back-end. Confira meus projetos construídos."
           />
           <meta name="robots" content="index, follow" />
           <meta name="rating" content="general" />

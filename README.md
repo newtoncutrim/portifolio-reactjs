@@ -1,5 +1,5 @@
 <h1 align="center">
-  Portfolio <img width="25px" src="https://raw.githubusercontent.com/EvanderInacio/Portfolio/73b9d0b179efc28c26d11e8d44570901d6f8b520/public/icon.svg"/>
+  Portfolio <!--<img width="25px" src="https://raw.githubusercontent.com/EvanderInacio/Portfolio/73b9d0b179efc28c26d11e8d44570901d6f8b520/public/icon.svg"/> --!>
 </h1>
 
  <p align="center">

@@ -24,7 +24,7 @@ export function AllProjects({ title }: AllContent ) {
             <div className="stage-cube-cont">
               <div className="cubespinner">
                 <div className="face1">
-                  <img src="/skills/html.svg" alt="Html" />
+                  <img src="/skills/php.svg" alt="Html" />
                 </div>
                 <div className="face2">
                   <img src="/skills/react.svg" alt="React JS" />
@@ -33,13 +33,13 @@ export function AllProjects({ title }: AllContent ) {
                   <img src="/skills/javascript.svg" alt="JavaScript" />
                 </div>
                 <div className="face4">
-                  <img src="/skills/typescript.svg" alt="TypeScript" />
+                  <img src="/skills/laravel.svg" alt="TypeScript" />
                 </div>
                 <div className="face5">
-                  <img src="/skills/css.svg" alt="Css" />
+                  <img src="/skills/docker.svg" alt="Css" />
                 </div>
                 <div className="face6">
-                  <img src="/skills/next-js.svg" alt="Next JS" />
+                  <img src="/skills/linux.svg" alt="Next JS" />
                 </div>
               </div>
             </div>

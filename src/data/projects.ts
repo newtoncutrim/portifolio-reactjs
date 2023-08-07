@@ -180,8 +180,8 @@ const projects = [
     title: 'PlayStation',
     type: 'Website',
     icon: '/projects/playstation/icon.svg',
-    github: 'https://github.com/EvanderInacio/PlayStation',
-    web: 'https://playstation-4.vercel.app/',
+    github: 'https://github.com/newtoncutrim/playstatiom',
+    web: 'https://spiffy-salamander-1c275f.netlify.app/',
     description: 'Explore a plataforma de comércio eletrônico da PlayStation, dedicada à venda dos mais incríveis controles de videogame da marca. O website apresenta uma extensa lista de diferentes tipos e modelos de controles, tudo isso com uma estética dark mode envolvente e uma interface intuitiva que cativará você, repleta de animações sutis e atraentes.',
     tags: [
       {
@@ -251,7 +251,7 @@ const projects = [
     gif: '/projects/playstation/playstation.mp4',
     backgroundImage: '/projects/playstation/playstation-home.png',
     video:
-      'https://www.youtube.com/watch?v=VZsm-NGse6M&ab_channel=EvanderIn%C3%A1cio'
+      'https://www.youtube.com'
   },
 
   /* {

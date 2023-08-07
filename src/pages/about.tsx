@@ -82,7 +82,7 @@ export default function About() {
                       <FaDiscord size={25} /> @
                     </a>
                   </Link> */}
-                  <Link href={'mailto:evander.20112@hotmail.com'}>
+                  <Link href={'mailto:newtoncutrim777@gmail.com'}>
                     <a
                       className="email"
                       target="_blank"

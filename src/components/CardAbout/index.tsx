@@ -33,7 +33,7 @@ export function About() {
 
             <strong>
               P.S. este site é código aberto e está disponível no{' '}
-              <Link href={'https://github.com/EvanderInacio/Portfolio'}>
+              <Link href={'https://github.com/newtoncutrim'}>
                 <a target='_blank'>Github</a>
               </Link>
             </strong>

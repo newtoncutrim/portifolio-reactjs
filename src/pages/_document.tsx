@@ -60,18 +60,18 @@ export default class MyDocument extends Document {
 
           <link rel="canonical" href="https://evander.vercel.app" />
           <meta name="theme-color" content="#00d9ff" />
-          <meta name="author" content="Evander Inácio" />
-          <meta name="creator" content="Evander Inácio" />
-          <meta name="copyright" content="© 2022 Evander Inácio" />
+          <meta name="author" content="Newton Cutrim" />
+          <meta name="creator" content="Newton Cutrim" />
+          <meta name="copyright" content="© 2023 Newton Cutrim" />
 
-          <meta property="og:site_name" content="Portfolio - Evander Inácio" />
+          <meta property="og:site_name" content="Portfolio - Newton Cutrim" />
           <meta
             property="og:title"
-            content="Evander Inácio | Desenvolvedor"
+            content="Newton Cutrim | Desenvolvedor"
           />
           <meta
             property="og:description"
-            content="Meu nome é Evander Inácio sou um Desenvolvedor Front-End. Confira meus projetos construídos."
+            content="Meu nome é Newton Cutrim sou um Desenvolvedor Back-End. Confira meus projetos construídos."
           />
 
           <meta property="og:image" content="/ogimage.png" />

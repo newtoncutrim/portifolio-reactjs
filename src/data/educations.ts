@@ -11,15 +11,15 @@ const educations = [
   },
   {
     id: 2,
-    title: 'React.Js e Next.Js',
+    title: 'PHP Desenvolvedor Web',
     subTitle: 'Udemy',
-    status: 'Planejamento',
+    status: 'Completo',
     level: 'Profissionalizante',
-    link: 'https://www.udemy.com/course/curso-de-reactjs-nextjs-completo-do-basico-ao-avancado/',
-    description: 'Curso de ReactJS, NextJS, Styled-Components, testes com Jest e Testing Library, Storybook, Server-Side Rendering e demais siglas (SSR, SSG, ISR, CSR, SPA, PWA).',
+    link: 'https://www.udemy.com/share/101qZA3@Uy5XnUXi5HPtibW98FJcBitvhW9SsKLa5v2eNuX8onyJgAZxaiCp3CUGpaoSO1gMQA==/',
+    description: 'Criar uma base sólida em PHP, desde os princípios mais básicos Conhecer a sintaxe do PHP, os tipos e variáveis da linguagem Enteder as estruturas de lógica e repetições Criar funções, classes e objetos em PHP Integrar o PHP com HTML, CSS e Javascript Integrar a aplicação com banco de dados usando PDO e MySQLi Criar projetos PHP de aplicações reais e com layouts atrativos',
     logo: '/education/logos/udemy.svg',
   },
-  {
+  /*{
     id: 3,
     title: 'JavaScript e TypeScript',
     subTitle: 'Udemy',
@@ -68,7 +68,7 @@ const educations = [
     link: 'https://www.ev.org.br/',
     description: 'Curso de Lógica de Programação, fundamentos básicos da lógica da programação (descrição narrativa, fluxograma e pseudocódigo).',
     logo: '/education/logos/bradesco.svg',
-  },
+  }, */
 
 ]
 

@@ -1,5 +1,5 @@
 const projects = [
-  {
+  /* {
     id: 1,
     url: 'turtle-movie',
     img: '/projects/turtlemovie/turtle.png',
@@ -92,8 +92,8 @@ const projects = [
     video:
       'https://www.youtube.com/watch?v=wt2g4q2md9g&ab_channel=EvanderIn%C3%A1cio'
   },
-
-  {
+ */
+  /* {
     id: 2,
     url: 'whatsapp',
     img: '/projects/whatsapp/login.png',
@@ -171,7 +171,7 @@ const projects = [
     backgroundImage: '/projects/whatsapp/home-dark.png',
     video:
       'https://www.youtube.com/watch?v=PZpp2sCm0zY&t=11s&ab_channel=EvanderIn%C3%A1cio'
-  },
+  }, */
 
   {
     id: 3,
@@ -254,7 +254,7 @@ const projects = [
       'https://www.youtube.com/watch?v=VZsm-NGse6M&ab_channel=EvanderIn%C3%A1cio'
   },
 
-  {
+  /* {
     id: 4,
     url: 'podcastr',
     img: '/projects/podcastr/podcastr-home.png',
@@ -517,7 +517,7 @@ const projects = [
     backgroundImage: '/projects/pokedex/pokedex-index.png',
     video:
       'https://www.youtube.com/watch?v=gWCbt85ltto&ab_channel=EvanderIn%C3%A1cio'
-  }
+  } */
 ]
 
 export default projects

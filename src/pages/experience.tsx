@@ -43,7 +43,7 @@ export default function Experience() {
         </Title>
 
         <Description>
-          Sou apaixonado por criar interfaces interativas e funcionais, buscando
+          Sou apaixonado por criar funcionais, buscando
           sempre aprimorar minhas habilidades e aprender novas tecnologias.
           Estou sempre aberto a novos desafios e projetos desfiadores.
         </Description>
